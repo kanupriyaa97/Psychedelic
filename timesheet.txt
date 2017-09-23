@@ -1,0 +1,4 @@
+Timesheet:
+Time given to the term project for the first deliverable: 20 hours
+Time givien to the term project for second deliverable: 30+ hours
+Time givien to the term project for last deliverable: 60+ hours
